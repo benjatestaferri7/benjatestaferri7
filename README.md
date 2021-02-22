@@ -19,5 +19,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=benjatestaferri7&show_icons=true&theme=dark&locale=en&layout=compact" alt="benjatestaferri7" /></p>
 
-![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjatestaferri7&count_private=true&hide=contribs,prs,issues&theme=synthwave)
+![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjatestaferri7&count_private=true&hide=contribs,prs,issues&theme=dracula)
 
