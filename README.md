@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benjatestaferri7&label=Profile%20views&color=0e75b6&style=flat-square" alt="benjatestaferri7" /> </p>
 
-- 🌱 I’m currently learning **MongoDb, ExpressJs, ReactJs, NodeJs & TypeScript**
+- 🌱 I’m currently learning **MongoDb, ExpressJs, ReactJs, NodeJs, TypeScript & Chakra-Ui**
 
 - 👨‍💻 All of my projects are available at [https://btgportfolio.netlify.app/](https://btgportfolio.netlify.app/)
 
