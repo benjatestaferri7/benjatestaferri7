@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MongoDb, ExpressJs, ReactJs, NodeJs, TypeScript & Chakra-Ui**
 
-- 👨‍💻 All of my projects are available at [https://btgportfolio.netlify.app/](https://btgportfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://btgportfolio.vercel.app/](https://btgportfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
