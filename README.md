@@ -21,3 +21,4 @@
 
 ![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjatestaferri7&count_private=true&hide=contribs,prs,issues&theme=radical)
 
+![Snake animation](https://github.com/benjatestaferri7/benjatestaferri7/blob/output/github-contribution-grid-snake.svg)
