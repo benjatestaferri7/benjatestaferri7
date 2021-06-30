@@ -20,9 +20,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=benjatestaferri7&show_icons=true&theme=dark&locale=en&layout=compact" alt="benjatestaferri7" /></p>
 
 ![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjatestaferri7&count_private=true&hide=contribs,prs,issues&theme=radical)
-
- - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: platane
-          svg_out_path: dist/github-contribution-grid-snake.svg
