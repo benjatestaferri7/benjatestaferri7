@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benjatestaferri7&label=Profile%20views&color=0e75b6&style=flat-square" alt="benjatestaferri7" /> </p>
 
-- 🌱 I’m currently learning **TypeScript & Chakra-Ui**
+- 🐍 I’m currently learning **Python, Machine Learning & IA**
 
-- 👨‍💻 All of my projects are available at [https://btgportfolio.vercel.app/](https://btgportfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://btgportfolio.vercel.app/](https://btgportfolio.vercel.app/) (webdev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
