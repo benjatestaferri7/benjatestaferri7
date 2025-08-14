@@ -5,7 +5,6 @@
 
 - 🐍 I’m currently learning **Python, Machine Learning & IA**
 
-- 👨‍💻 All of my projects are available at [https://btgportfolio.vercel.app/](https://btgportfolio.vercel.app/) (webdev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
