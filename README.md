@@ -22,20 +22,29 @@
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 ![.NET](https://img.shields.io/badge/-.NET-000?&logo=.NET&logoColor=512BD4)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
+![GCP](https://img.shields.io/badge/-GCP-000?&logo=Google-Cloud&logoColor=4285F4)
+![Looker](https://img.shields.io/badge/-Looker-000?&logo=Looker&logoColor=4285F4)
+![Power BI](https://img.shields.io/badge/-Power%20BI-000?&logo=Power-BI&logoColor=F2C811)
 
 ### Projects
 
-[![](https://img.shields.io/badge/-🏋️%20VibeLift%20Gym-000)](https://github.com/benjatestaferri7/vibelift-gym)
-[![](https://img.shields.io/badge/-🏦%20Bancor%20Capacitaciones-000)](https://github.com/benjatestaferri7/bancor-capacitaciones)
-[![](https://img.shields.io/badge/-🏥%20Gestión%20Camilleros-000)](https://github.com/benjatestaferri7/gestion-camilleros)
-[![](https://img.shields.io/badge/-🦘%20Gangaroo%20Landing-000)](https://github.com/benjatestaferri7/gangaroo-landing)
+[![](https://img.shields.io/badge/-💲%20FinanceArt-000)](https://github.com/benjatestaferri7)
 [![](https://img.shields.io/badge/-✂️%20OpenShorts-000)](https://github.com/benjatestaferri7/openshorts)
 [![](https://img.shields.io/badge/-🌐%20Whokena-000)](https://whokena.com/)
+[![](https://img.shields.io/badge/-🎤%20VoiceHelper-000)](https://github.com/benjatestaferri7)
+[![](https://img.shields.io/badge/-👥%20TeamAgents-000)](https://github.com/benjatestaferri7)
 
-### Currently Learning
+### 🚀 Pushing the Boundaries of AI
 
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-000?&logo=TensorFlow)
-![AI Agents](https://img.shields.io/badge/-AI%20Agents-000?&logo=OpenAI)
-![LangChain](https://img.shields.io/badge/-LangChain-000?&logo=chainlink)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-000?&logo=TensorFlow&logoColor=FF6F00)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-000?&logo=PyTorch&logoColor=EE4C2C)
+![LLMs](https://img.shields.io/badge/-LLMs-000?&logo=OpenAI&logoColor=412991)
+![AI Agents](https://img.shields.io/badge/-AI%20Agents-000?&logo=OpenAI&logoColor=412991)
+![LangChain](https://img.shields.io/badge/-LangChain-000?&logo=chainlink&logoColor=375BD2)
+![RAG](https://img.shields.io/badge/-RAG-000?&logo=databricks&logoColor=FF3621)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-000?&logo=OpenAI&logoColor=412991)
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-000?&logo=OpenCV&logoColor=5C3EE8)
+![MCP](https://img.shields.io/badge/-MCP-000?&logo=Anthropic&logoColor=D97757)
 
-<a href="https://whokena.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=benjatestaferri7&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjatestaferri7&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<a href="https://whokena.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=benjatestaferri7&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&icon_color=79dafa&bg_color=0,0d1b2a,0a3d62,1a6fa8,2196f3&theme=tokyonight" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjatestaferri7&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=fff&icon_color=79dafa&bg_color=0,2196f3,00bcd4,0097a7,006064&theme=tokyonight" /></a>
