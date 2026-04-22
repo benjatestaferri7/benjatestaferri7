@@ -1,3 +1,20 @@
+### 👋 Hey, I'm Benja
+
+Systems Analyst focused on data, AI, and product. I build digital solutions that combine **BI & Analytics**, **LLMs & AI Agents**, and **full stack web development** to automate processes and improve decision-making.
+
+I started in 2018 building websites and custom apps. Over time I evolved toward data analytics and machine learning, until reaching my current focus: designing and building AI-powered products that generate actionable insights for the business.
+
+Currently working at **Banco de Córdoba**, applying AI and automation to speed up the information flow used by business areas.
+
+🧠 My expertise spans three worlds:
+- **BI Developer** → Power BI, QlikView/Sense, Looker, GCP, SQL, actionable dashboards
+- **AI & LLMs** → AI Agents, scrapers, ETL pipelines, automation with Python
+- **Product Developer** → From idea to MVP: full stack (React, Node.js, .NET) + APIs
+
+📩 benjamintestaferrig@gmail.com
+
+---
+
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
