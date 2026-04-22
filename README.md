@@ -1,24 +1,41 @@
-<h1 align="center">Hi 👋, I'm Benjamin</h1>
-<h3 align="center">A Front-End Developer from Argentina</h3>
+### Languages
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=benjatestaferri7&label=Profile%20views&color=0e75b6&style=flat-square" alt="benjatestaferri7" /> </p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
-- 🐍 I’m currently learning **Python, Machine Learning & IA**
+### Technologies
 
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux&logoColor=764ABC)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass&logoColor=CC6699)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap&logoColor=7952B3)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+![.NET](https://img.shields.io/badge/-.NET-000?&logo=.NET&logoColor=512BD4)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/benjatg7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="benjatg7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/benjatestaferrig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/benjatestaferrig/" height="30" width="40" /></a>
-<a href="https://instagram.com/benjatestaferrig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="benjatestaferrig" height="30" width="40" /></a>
-</p>
+### Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+[![](https://img.shields.io/badge/-🏋️%20VibeLift%20Gym-000)](https://github.com/benjatestaferri7/vibelift-gym)
+[![](https://img.shields.io/badge/-🏦%20Bancor%20Capacitaciones-000)](https://github.com/benjatestaferri7/bancor-capacitaciones)
+[![](https://img.shields.io/badge/-🏥%20Gestión%20Camilleros-000)](https://github.com/benjatestaferri7/gestion-camilleros)
+[![](https://img.shields.io/badge/-🦘%20Gangaroo%20Landing-000)](https://github.com/benjatestaferri7/gangaroo-landing)
+[![](https://img.shields.io/badge/-✂️%20OpenShorts-000)](https://github.com/benjatestaferri7/openshorts)
+[![](https://img.shields.io/badge/-🌐%20Whokena-000)](https://whokena.com/)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=benjatestaferri7&show_icons=true&theme=dark&locale=en&layout=compact" alt="benjatestaferri7" /></p>
+### Currently Learning
 
-![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjatestaferri7&count_private=true&hide=contribs,prs,issues&theme=radical)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-000?&logo=TensorFlow)
+![AI Agents](https://img.shields.io/badge/-AI%20Agents-000?&logo=OpenAI)
+![LangChain](https://img.shields.io/badge/-LangChain-000?&logo=chainlink)
 
-
-![snake gif](https://github.com/benjatestaferri7/benjatestaferri7/blob/output/github-contribution-grid-snake.gif)
+<a href="https://whokena.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=benjatestaferri7&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjatestaferri7&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
